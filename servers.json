@@ -1,0 +1,556 @@
+{
+  "default": {
+    "sourcebans": "index.php?p=banlist&advType=reason&hideinactive=true&advSearch=",
+    "ban_link": "index.php?p=banlist&advType=steamid&advSearch=",
+    "search": [
+        "[little anti",
+        "[stac]"
+      ]
+  },
+  "servers": [
+    {
+      "url": "https://bans.wonderland.tf/",
+      "ip": "213.239.196.115",
+      "server_id": "wonderland.tf",
+      "search": [
+        "[ac]"
+      ]
+    },
+    {
+      "url": "https://bans.petrol.tf/",
+      "server_id": "petrol.tf",
+      "search": [
+        "[ac]"
+      ]
+    },
+    {
+      "url": "https://bans.hioctane.org/",
+      "server_id": "hioctane.org",
+      "search": [
+        "Anti-Cheat Detection"
+      ]
+    },
+    {
+      "COMMENT": "alternate url = http://tf2.15.ai/sourcebans",
+      "url": "http://74.91.123.131/sourcebans/",
+      "server_id": "mlp.tf",
+      "search": [
+        "[lilac]"
+      ]
+    },
+    {
+      "COMMENT": "alternate url = https://bans.dpg.tf/",
+      "url": "https://bans.darkpyrogaming.com/",
+      "server_id": "darkpyrogaming.com",
+      "search": [
+        "[ac]"
+      ]
+    },
+    {
+      "url": "https://bans.flux.tf/",
+      "server_id": "flux.tf",
+      "search": [
+        "[Anti-Cheat]"
+      ]
+    },
+    {
+      "url": "https://bans.blackwonder.tf/",
+      "server_id": "blackwonder.tf",
+      "ip": "23.88.5.239",
+      "search": [
+        "[Anti-Cheat]"
+      ]
+    },
+    {
+      "url": "https://sg-gaming.net/bans/",
+      "server_id": "sg-gaming.net",
+      "search": [
+        "Aimbot Detected"
+      ]
+    },
+    {
+      "url": "https://www.skial.com/sourcebans/",
+      "server_id": "skial.com",
+      "search": [
+        "smac"
+      ],
+      "sb_icon": "web"
+    },
+    {
+      "url": "https://bans.tf2maps.net/",
+      "ip": "144.202.8.67",
+      "server_id": "tf2maps.net"
+    },
+    {
+      "url": "https://scg.wtf/",
+      "ban_link": "ban?type=sb&id=",
+      "server_id": "scg.wtf"
+    },
+    {
+      "url": "https://sourcebans.ashitacp.dev/",
+      "ip": "121.162.139.5",
+      "server_id": "ashitacp.dev"
+    },
+    {
+      "url": "https://vidyagaems.net/sourcebans/",
+      "ip": "149.100.155.127",
+      "server_id": "vidyagaems.net"
+    },
+    {
+      "url": "https://tf2.endofthelinegaming.com/sourcebans/",
+      "server_id": "endofthelinegaming.com"
+    },
+    {
+      "url": "https://bans.llamasking.xyz/",
+      "server_id": "llamasking.xyz"
+    },
+    {
+      "url": "https://bans.ssgvsh.com/",
+      "server_id": "ssgvsh.com"
+    },
+    {
+      "url": "https://bans.panda-community.com/",
+      "server_id": "panda-community.com"
+    },
+    {
+      "url": "https://sourcebans.rushyservers.com/",
+      "server_id": "rushyservers.com"
+    },
+    {
+      "url": "https://sourcebans.gamersalapro.com/",
+      "server_id": "gamersalapro.com"
+    },
+    {
+      "url": "http://bans.friendsland.eu/",
+      "server_id": "friendsland.eu"
+    },
+    {
+      "url": "https://apple-shack.org/bans/",
+      "server_id": "apple-shack.org"
+    },
+    {
+      "url": "https://sb.vaultf4.com/",
+      "server_id": "vaultf4.com",
+      "sb_icon": "game2"
+    },
+    {
+      "url": "https://bans.triumphtf2.com/",
+      "server_id": "triumphtf2.com"
+    },
+    {
+      "url": "https://bans.lanqiushe.top/",
+      "server_id": "lanqiushe.top"
+    },
+    {
+      "url": "http://109.195.38.146/",
+      "server_id": "siberiacommunity.ru"
+    },
+    {
+      "url": "https://mtrn.hu/sourcebans/",
+      "server_id": "mtrn.hu"
+    },
+    {
+      "url": "https://bans.randomtf2.com/",
+      "server_id": "randomtf2.com"
+    },
+    {
+      "url": "http://dumcit.d-srv.com/dcsb/",
+      "server_id": "d-srv.com"
+    },
+    {
+      "url": "https://ceza.skyregiontr.com/",
+      "server_id": "skyregiontr.com"
+    },
+    {
+      "url": "https://bans.progameszet.ru/",
+      "server_id": "progameszet.ru"
+    },
+    {
+      "url": "https://wallebot.com/tf2/sourcebans/",
+      "server_id": "wallebot.com"
+    },
+    {
+      "url": "https://164.132.200.226/",
+      "server_id": "Glubbable"
+    },
+    {
+      "url": "http://116.206.127.60:81/sourcebans/",
+      "server_id": "MeowJB"
+    },
+    {
+      "url": "http://jsl.midheart.club/",
+      "server_id": "midheart.club"
+    },
+    {
+      "url": "https://meem-server.kr/sban/",
+      "server_id": "meem-server.kr"
+    },
+    {
+      "url": "https://firepoweredgaming.com/sourcebanspp/",
+      "server_id": "firepoweredgaming.com"
+    },
+    {
+      "url": "https://sourcebans.vennelium.com/",
+      "server_id": "vennelium.com"
+    },
+    {
+      "url": "https://mubcafe.com/",
+      "server_id": "mubcafe.com"
+    },
+    {
+      "url": "https://bans.evlbox.com/",
+      "server_id": "evlbox.com"
+    },
+    {
+      "url": "https://sb.shadowshosting.com/",
+      "server_id": "shadowshosting.com"
+    },
+    {
+      "url": "http://aifhomecare.com/",
+      "server_id": "aifhomecare.com"
+    },
+    {
+      "url": "https://tf2.beektor.com/",
+      "server_id": "beektor.com"
+    },
+    {
+      "url": "https://bans.vypers.hu/",
+      "server_id": "vypers.hu"
+    },
+    {
+      "url": "https://sourcebans.prwh.de/",
+      "server_id": "prwh.de"
+    },
+    {
+      "COMMENT": "This is Owl.tf",
+      "url": "https://kingpandagamer.xyz/sb/",
+      "server_id": "kingpandagamer.xyz"
+    },
+    {
+      "url": "https://pancakes.tf/",
+      "server_id": "pancakes.tf"
+    },
+    {
+      "url": "https://sourcebans.apemode.tf/",
+      "server_id": "apemode.tf"
+    },
+    {
+      "url": "https://sappho.io/bans/",
+      "server_id": "sappho.io"
+    },
+    {
+      "url": "https://bans.retroservers.net/",
+      "server_id": "retroservers.net"
+    },
+    {
+      "url": "http://thefurrypound.org/sourcebans/",
+      "server_id": "thefurrypound.org"
+    },
+    {
+      "url": "https://sourcebans.gflclan.com/",
+      "server_id": "gflclan.com"
+    },
+    {
+      "url": "https://triggerhappygamers.com/sourcebans/",
+      "server_id": "triggerhappygamers.com"
+    },
+    {
+      "url": "https://bans.jumpacademy.tf/",
+      "server_id": "jumpacademy.tf"
+    },
+    {
+      "url": "https://tf2.level9.co.il/",
+      "server_id": "level9.co.il"
+    },
+    {
+      "url": "https://bans.tf2ro.com/",
+      "server_id": "tf2ro.com"
+    },
+    {
+      "url": "https://servilive.cl/bans/",
+      "server_id": "servilive.cl"
+    },
+    {
+      "url": "https://bans.phoenix-gaming.gg/",
+      "server_id": "phoenix-gaming.gg"
+    },
+    {
+      "url": "https://vidyagaems.com.ar/bans/",
+      "server_id": "vidyagaems.com.ar"
+    },
+    {
+      "url": "https://electricservers.com.ar/bans/",
+      "server_id": "electricservers.com.ar"
+    },
+    {
+      "url": "https://bans.idgame.net/",
+      "server_id": "idgame.net"
+    },
+    {
+      "url": "https://looscommunity.com/bans/",
+      "server_id": "looscommunity.com"
+    },
+    {
+      "url": "https://bans.svdosbrothers.com/",
+      "server_id": "svdosbrothers.com"
+    },
+    {
+      "COMMENT": "BBG had two sites. If bans are missing for the link, it (was) on the old site: 74.91.112.244/Sourcebans",
+      "url": "https://sourcebans.bigbanggamers.org/",
+      "server_id": "bigbanggamers.org"
+    },
+    {
+      "COMMENT": "The Respawn Room (no domain) - 184.144.91.108",
+      "url": "http://bras-base-jkvlon0508w-grc-23-184-144-91-108.dsl.bell.ca:8080/",
+      "server_id": "TheRespawnRoom"
+    },
+    {
+      "url": "https://theaviary.lgbt/sourcebans/",
+      "server_id": "theaviary.lgbt"
+    },
+    {
+      "url": "https://193.123.34.86/",
+      "server_id": "lethal.tf"
+    },
+    {
+      "url": "https://synergy.tf/sourcebans/",
+      "server_id": "synergy.tf"
+    },
+    {
+      "url": "https://aarmastah.xyz/sourcebans/",
+      "server_id": "aarmastah.xyz"
+    },
+    {
+      "url": "https://foxsys-tech.ru/",
+      "server_id": "foxsys-tech.ru"
+    },
+    {
+      "url": "https://sb.armyofnaithons.ru/",
+      "server_id": "armyofnaithons.ru"
+    },
+    {
+      "url": "https://bans.spyacademy.tf/",
+      "server_id": "spyacademy.tf"
+    },
+    {
+      "url": "https://bans.orcagaming.com.ar/tf2/",
+      "server_id": "orcagaming.com.ar"
+    },
+    {
+      "url": "https://genezistf2.myarena.site/",
+      "server_id": "genezistf2.myarena.site"
+    },
+    {
+      "url": "https://sourcebans.fluffycat.gay/",
+      "server_id": "fluffycat.gay"
+    },
+    {
+      "url": "https://bans.cms.tf/",
+      "server_id": "cms.tf"
+    },
+    {
+      "url": "https://bans.fleabeard.com/",
+      "server_id": "fleabeard.com"
+    },
+    {
+      "url": "https://boxes4foxes.site.nfoservers.com/sourcebans/",
+      "server_id": "boxes4foxes"
+    },
+    {
+      "url": "https://152.136.173.241/",
+      "server_id": "FishingHouse"
+    },
+    {
+      "url": "https://chillout.pw/sb/",
+      "server_id": "chillout.pw"
+    },
+    {
+      "url": "https://zestyjesus.com/sourcebans/",
+      "server_id": "zestyjesus.com"
+    },
+    {
+      "url": "https://garryshosting.com/gameover/tf2/",
+      "server_id": "garryshosting.com"
+    },
+    {
+      "url": "https://sb.ugc-gaming.net/",
+      "server_id": "ugc-gaming.net"
+    },
+    {
+      "url": "http://sourcebans.weaselslair.com/",
+      "server_id": "weaselslair.com"
+    },
+    {
+      "url": "https://bans.lbgaming.co/",
+      "server_id": "lbgaming.co"
+    },
+    {
+      "url": "https://foolish.docyb.org/sourcebans/",
+      "server_id": "docyb.org"
+    },
+    {
+      "url": "https://sb.minigun.pl/",
+      "server_id": "minigun.pl"
+    },
+    {
+      "url": "https://bans.bmod.tf/",
+      "server_id": "bmod.tf"
+    },
+    {
+      "url": "https://gguclan.com/bans/",
+      "server_id": "gguclan.com"
+    },
+    {
+      "url": "https://omskpub.ru/",
+      "server_id": "omskpub.ru"
+    },
+    {
+      "url": "http://najemniczeklapki.pl/",
+      "server_id": "najemniczeklapki.pl"
+    },
+    {
+      "url": "https://castaway.tf/bans/",
+      "server_id": "castaway.tf"
+    },
+    {
+      "url": "https://spenny.tf/sourcebans/",
+      "server_id": "spenny.tf"
+    },
+
+
+
+    {
+      "COMMENT": "Starting here, these are sourcebans which do not run STAC or LittleAC, but they run TF2 servers, so they could possibly use them eventually",
+      "url": "https://bans.altfs.ru/",
+      "server_id": "altfs.ru"
+    },
+    {
+      "url": "https://zmbr.mjsv.us/",
+      "server_id": "mjsv.us"
+    },
+    {
+      "url": "https://bans.kingo.tf/",
+      "server_id": "kingo.tf"
+    },
+    {
+      "url": "https://bans.lamda.lol/",
+      "server_id": "lamda.lol"
+    },
+    {
+      "url": "https://sourcebans.theblackmarket.co/",
+      "server_id": "theblackmarket.co"
+    },
+    {
+      "url": "https://bans.2mann.tf/",
+      "server_id": "2mann.tf"
+    },
+    {
+      "url": "https://ban.wenyinos.com/",
+      "server_id": "wenyinos.com"
+    },
+    {
+      "url": "https://banlist.taurigaming.cz/",
+      "server_id": "taurigaming.cz"
+    },
+    {
+      "url": "https://tf2-casual-fun.de/sourcebans/",
+      "server_id": "tf2-casual-fun.de"
+    },
+    {
+      "url": "https://www.gamingmasters.org/bans/",
+      "server_id": "gamingmasters.org"
+    },
+    {
+      "url": "http://27r35uz.257.cz/sourcebans/",
+      "server_id": "27r35uz.257.cz"
+    },
+    {
+      "url": "https://neonheights.xyz/bans/",
+      "server_id": "neonheights.xyz"
+    },
+    {
+      "url": "https://bans.skufs.net/",
+      "server_id": "skufs.net"
+    },
+    {
+      "url": "http://sourcebans.gsp-europe.net/sourcebans_1791/",
+      "server_id": "gsp-europe.net"
+    },
+    {
+      "url": "https://sameteem.com/sourcebans/",
+      "server_id": "sameteem.com"
+    },
+    {
+      "url": "https://banlist.gamesites.cz/tf2/",
+      "server_id": "gamesites.cz"
+    },
+    {
+      "url": "https://bans.paradise.tf/",
+      "server_id": "paradise.tf"
+    },
+    {
+      "url": "https://dixigame.com/bans/",
+      "server_id": "dixigame.com"
+    },
+    {
+      "url": "https://bans.xenogamers.com/",
+      "server_id": "xenogamers.com"
+    },
+    {
+      "url": "https://thehostmeister.com/sourcebans/",
+      "server_id": "thehostmeister.com"
+    },
+    {
+      "url": "https://lazypurple.com/sourcebans/",
+      "server_id": "lazypurple.com"
+    },
+    {
+      "url": "http://sourcebans.fith.co/",
+      "server_id": "fith.co"
+    },
+    {
+      "url": "https://bans.scrap.tf/",
+      "server_id": "scrap.tf"
+    },
+    {
+      "url": "https://bans.esftf2.ru/",
+      "server_id": "esftf2.ru"
+    },
+    {
+      "url": "https://bans.pubs.tf/",
+      "server_id": "pubs.tf"
+    },
+    {
+      "url": "https://sourcebans.biocrafting.net/",
+      "server_id": "biocrafting.net"
+    },
+    {
+      "url": "https://sb.opstonline.com/bans/",
+      "server_id": "opstonline.com"
+    },
+    {
+      "url": "https://bans.maxdb.net/",
+      "server_id": "maxdb.net"
+    },
+    {
+      "url": "https://zenteral.xyz/bans/",
+      "server_id": "zenteral.xyz"
+    },
+    {
+      "url": "https://bans.informaltf2.ru/",
+      "server_id": "informaltf2.ru"
+    },
+    {
+      "url": "https://anarchist-fortress.com/sourcebans/",
+      "server_id": "anarchist-fortress.com"
+    },
+    {
+      "url": "https://sleepingknights.net/bans/",
+      "server_id": "sleepingknights.net"
+    },
+    {
+      "url": "http://bans.cygnus.center/",
+      "server_id": "cygnus.center"
+    }
+  ]
+}
