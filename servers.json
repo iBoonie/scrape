@@ -288,7 +288,8 @@
     },
     {
       "url": "https://looscommunity.com/bans/",
-      "server_id": "looscommunity.com"
+      "server_id": "looscommunity.com",
+      "ip": "51.68.70.225"
     },
     {
       "url": "https://bans.svdosbrothers.com/",
@@ -478,7 +479,8 @@
     },
     {
       "url": "https://sameteem.com/sourcebans/",
-      "server_id": "sameteem.com"
+      "server_id": "sameteem.com",
+      "ip": "51.75.173.125"
     },
     {
       "url": "https://banlist.gamesites.cz/tf2/",
